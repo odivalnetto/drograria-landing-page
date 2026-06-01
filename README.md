@@ -28,7 +28,7 @@ Este projeto foi desenvolvido como parte de atividades práticas e para compor m
 
 Acesse o projeto:
 
-https://odivalnetto.github.io/landing-page-drogaria-monteiro/
+https://odivalnetto.github.io/drograria-landing-page/
 
 ## Autor
 
